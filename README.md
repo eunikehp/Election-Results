@@ -1,6 +1,6 @@
 # Election-Results
 
-ou’re part of an impartial research group that conducts phone surveys prior to local elections. 
+You’re part of an impartial research group that conducts phone surveys prior to local elections. 
 During this election season, the group conducted a survey to determine how many people would vote for 
 Cynthia Ceballos vs. Justin Kerrigan in the mayoral election.
 
