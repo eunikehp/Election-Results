@@ -1,6 +1,6 @@
 # Page Visits Funnel
 
-This project is one of the assignments on Analyze Data with Python track from [Codecademy](https://www.codecademy.com/learn) website. Through this project, I learnt about manipulating data using Pandas. 
+This project is one of the assignments on Analyze Data with Python track from [Codecademy](https://www.codecademy.com/learn) website. Through this project, I learned about manipulating data using Pandas. 
 
 *Scenario* : Cool T-Shirts Inc. has asked you to analyze data on visits to their website. Your job is to build a funnel, which is a description of how many people continue to the next step of a multi-step process.
 
